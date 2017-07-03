@@ -1,0 +1,21 @@
+{ 
+    "packageUrl" : "http://127.0.0.1/htdocs/hotUpdateService/res/", 
+    "remoteManifestUrl" : "http://127.0.0.1/htdocs/hotUpdateService/res/project.manifest", 
+    "remoteVersionUrl" : "http://127.0.0.1/htdocs/hotUpdateService/res/version.manifest", 
+    "version" : "1.0.1", 
+    "groupVersions" : {
+        "1" : "1.0.1"
+    },
+    "engineVersion" : "3.14", 
+    "assets" : { 
+        "update1" : {
+            "path" : "src/app.zip",
+            "md5" : "D7698389FD1CA121DCD896035D67687C", 
+            "compressed" : true ,
+            "group" : "1" 
+        }
+    },
+
+    "searchPaths" : [ 
+    ] 
+}

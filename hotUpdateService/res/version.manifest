@@ -1,0 +1,10 @@
+{ 
+    "packageUrl" : "http://127.0.0.1/htdocs/hotUpdateService/res/", 
+    "remoteManifestUrl" : "http://127.0.0.1/htdocs/hotUpdateService/res/project.manifest", 
+    "remoteVersionUrl" : "http://127.0.0.1/htdocs/hotUpdateService/res/version.manifest", 
+    "version" : "1.0.1",
+    "groupVersions" : {
+        "1" : "1.0.1"
+    }, 
+    "engineVersion" : "3.14" 
+}
